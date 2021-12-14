@@ -80,12 +80,18 @@ input, .btn, li{
     input, .btn,li{
         width: 80%;
     }
+    .container{
+        width: 100vw;
+    }
 }
 <<<<<<< HEAD
 
 @media (max-width:300px) {
     input, .btn,li{
         width: 95%;
+    }
+    .container{
+        width: 100vw;
     }
 }
 =======

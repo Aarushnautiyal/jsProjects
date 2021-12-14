@@ -80,3 +80,9 @@ input, .btn, li{
         width: 80%;
     }
 }
+
+@media (max-width:300px) {
+    input, .btn,li{
+        width: 95%;
+    }
+}

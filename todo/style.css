@@ -38,6 +38,7 @@ input{
     background: none;
     border-bottom: 1px solid rgb(0, 0, 0);
     margin: 2px auto;
+    text-align: center;
 }
 
 .btn{
@@ -80,9 +81,12 @@ input, .btn, li{
         width: 80%;
     }
 }
+<<<<<<< HEAD
 
 @media (max-width:300px) {
     input, .btn,li{
         width: 95%;
     }
 }
+=======
+>>>>>>> efad31de072a7e9f0b495a33f3ceb7219d73ff75

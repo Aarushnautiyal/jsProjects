@@ -84,9 +84,8 @@ input, .btn, li{
         width: 100vw;
     }
 }
-<<<<<<< HEAD
 
-@media (max-width:300px) {
+@media (max-width:400px) {
     input, .btn,li{
         width: 95%;
     }
@@ -94,5 +93,3 @@ input, .btn, li{
         width: 100vw;
     }
 }
-=======
->>>>>>> efad31de072a7e9f0b495a33f3ceb7219d73ff75

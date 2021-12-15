@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+/* the reset */
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+/* setting the background color */
+body{
+    background: rgb(33, 121, 156);
+    font-family: 'Poppins', sans-serif;
+}
+/* centering the box */
+
+.container{
+    height: 100vh;
+    display: grid;
+    place-items: center;
+}
+
+h1{
+    font-weight: 400;
+    letter-spacing: 2rem;
+}
+
+/* the box */
+.box{
+    background: rgb(167, 162, 168);
+    display: flex;
+    height: 10rem;
+    width: 10rem;
+    text-align: center;
+    align-items: center;
+    border-radius: 25px;
+    cursor: pointer;
+    box-shadow: 1px 28px 2rem 0.1rem rgba(63, 62, 62, 0.582);
+    transition: all 4s;
+}
+.rotate{
+    transform: rotate(180deg);
+}

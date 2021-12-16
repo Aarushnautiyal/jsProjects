@@ -80,6 +80,9 @@ input, .btn, li{
     input, .btn,li{
         width: 80%;
     }
+    h1{
+    font:20rem;
+    }
     .container{
         width: 100vw;
     }
